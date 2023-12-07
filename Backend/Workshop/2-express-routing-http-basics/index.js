@@ -55,7 +55,7 @@ app.get("/users/:userId", (req, res) => {
     return res.status(200).json(user)
   });
 //delete user by id
-app.get("/users/:userId", (req, res) => {
+app.delete("/users/:userId", (req, res) => {
     const {userId} = req.params
     const user = users.find((user)=>user.userId == userId)
     if(!user) return res.status(404).json({message:"user not found"})
@@ -81,6 +81,13 @@ app.put("/users/:userId",(req,res)=>{
     let oldUser = users.find(user => user.userId == userId)
     if(!oldUser) return res.status(404).json({message:"user not found"})
     oldUser ={...oldUser,...user}
+
+    oldUser ={...oldUser,...userData}
+    users.map(user => {
+        if(user.userId == userId) {
+            user = oldUser
+        }
+    })
     return res.status(200).json(oldUser)
 })
 app.listen(PORT, () => console.log(`GDG School  listening on port ${PORT}!`));
