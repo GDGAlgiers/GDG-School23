@@ -1,9 +1,9 @@
 
-## GDG School 23 | Cybersecurity and CTF Resources
+# GDG School 23 | Cybersecurity and CTF Resources
 
 Welcome to GDG School 23 repository. In this folder, you'll find all the resources related to GDG School Cyber security workshop under the title "CTF101" such as presentation and all the resources shared during this awsome workshop!, presented by <a href="https://github.com/ELHart05" target="_blank">Okba ALLAOUA</a> and <a href="https://github.com/AnissBenstaali" target="_blank">Aniss BENSTAALI</a>
 
-# Table of Contents
+## Table of Contents
 <ol>
     <li>
         <a href="#slides">Slides</a>
@@ -24,6 +24,9 @@ Welcome to GDG School 23 repository. In this folder, you'll find all the resourc
         <a href="#practise">Practice Platforms</a>
     </li>
     <li>
+        <a href="#contributors">Contributors</a>
+    </li>
+    <li>
         <a href="#feedback">Feedback</a>
     </li>
 </ol>
@@ -33,7 +36,7 @@ Welcome to GDG School 23 repository. In this folder, you'll find all the resourc
 <details open>
 <summary>Slides</summary>
 
-# Slides
+## Slides
 
 We provided slides where we dicussed brievly:
 -   WHAT IS CYBER SECURITY?
@@ -76,7 +79,7 @@ We provided slides where we dicussed brievly:
 
 <summary>Challeges Done (During workshop)</summary>
 
-# Challeges Done (During workshop):
+## Challeges Done (During workshop):
 
 1. **GET aHEAD**
     - [Challenge](https://play.picoctf.org/practice/challenge/132?category=1&page=1)
@@ -103,22 +106,22 @@ We provided slides where we dicussed brievly:
 
 <summary>YouTube Channels</summary>
 
-# YouTube Channels:
+## YouTube Channels:
 
 1. **LiveOverflow:**
-   - [LiveOverflow YouTube Channel](https://www.youtube.com/user/LiveOverflowCTF)
+   - [LiveOverflow Web Related YouTube Playlist](https://www.youtube.com/playlist?list=PLhixgUqwRTjx2BmNF5-GddyqZcizwLLGP)
 
-2. **Hackersploit:**
-   - [Hackersploit YouTube Channel](https://www.youtube.com/c/hackersploit)
+2. **LoiLiangYang:**
+   - [LoiLiangYang YouTube Channel](https://www.youtube.com/@LoiLiangYang)
 
-3. **IppSec (IppSecLabs):**
-   - [IppSec YouTube Channel](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
+3. **John Hammond:**
+   - [John Hammond Web Related YouTube Playlist](https://www.youtube.com/playlist?list=PL1H1sBF1VAKXlstTqPdp9L-CfyGoAu80J)
 
-4. **STÖK:**
-   - [STÖK YouTube Channel](https://www.youtube.com/c/SToKPodcast)
+4. **CTF School:**
+   - [CTF School Web Related YouTube Playlist](https://www.youtube.com/playlist?list=PL_kRRBu3ISwte6U0Yzo-pHNe5Vl0tr7n-)
 
 5. **TheNewBaghdad:**
-    - [TheNewBaghdad YouTube Channel](https://www.youtube.com/playlist?list=PLF8OvnCBlEY3kbFivlWbtoDCNjo4qRAZd)
+    - [TheNewBaghdad Web Related YouTube Playlist](https://www.youtube.com/playlist?list=PLF8OvnCBlEY3kbFivlWbtoDCNjo4qRAZd)
 
 </details>
 
@@ -127,7 +130,7 @@ We provided slides where we dicussed brievly:
 <details>
 <summary>Websites to Learn</summary>
 
-# Websites to Learn:
+## Websites to Learn:
 
 1. **OWASP (Open Web Application Security Project):**
    - [OWASP](https://owasp.org/)
@@ -148,7 +151,7 @@ We provided slides where we dicussed brievly:
 <details>
 <summary>Websites for CTF Challenges</summary>
 
-# Websites for CTF Challenges:
+## Websites for CTF Challenges:
 
 1. **Hack The Box (HTB):**
    - [Hack The Box](https://www.hackthebox.eu/)
@@ -172,7 +175,7 @@ We provided slides where we dicussed brievly:
 <details>
 <summary>Practice Platforms</summary>
 
-# Practice Platforms:
+## Practice Platforms:
 
 1. **TryHackMe:**
    - [TryHackMe](https://tryhackme.com/)
@@ -180,13 +183,21 @@ We provided slides where we dicussed brievly:
 2. **Hacker101 by HackerOne:**
    - [Hacker101](https://www.hacker101.com/)
 
-3. **DVWA (Damn Vulnerable Web Application):**
-   - [DVWA](http://www.dvwa.co.uk/)
-
-4. **WebGoat Project:**
+3. **WebGoat Project:**
    - [WebGoat Project](https://owasp.org/www-project-webgoat/)
 
 </details>
+
+<a name="contributors"></a>
+
+## Contributors
+
+<table>
+  <tr>
+    <td align="center"><a href="https://okbafolio.vercel.app"><img src="https://avatars.githubusercontent.com/u/96151694?v=4" width="100px;" alt=""/><br /><sub><b>Okba ALLAOUA</b></sub></a></td>
+    <td align="center"><a href="https://github.com/AnissBenstaali"><img src="https://avatars.githubusercontent.com/u/110602017?v=4" width="100px;" alt=""/><br /><sub><b>Aniss BENSTAALI</b></sub></a></td>
+  </tr>
+</table>
 
 <a name="feedback"></a>
 
