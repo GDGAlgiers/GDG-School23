@@ -22,9 +22,14 @@ Make sure you have the following installed:
 
 - **1-express-basics**: Introduction to Express.
 - **2-express-routing-http-basics**: Express routing and HTTP basics.
-- **3-middlwares**: Middlwares overview
+- **3-middlwares and vaidation**: Middlwares overview and Express validation basics
 - **4-express-structure-best-practices**: Best structure for an Express project.
-- **5-express-validation**: Express validation basics.
-- **6-demo-project-prisma**: Integrating Prisma with Express and doing requests from database.
+- **5-demo-project-prisma**: Integrating Prisma with Express and doing requests from database.
 
 Happy coding!
+
+## Ressources
+- **freecodeCamp**: [freecodeCamp](https://www.youtube.com/@freecodecamp)
+-**Dave Gray**: [Dave Gray](https://www.youtube.com/@DaveGrayTeachesCode)
+- **net ninja**: [netninja](https://www.youtube.com/@NetNinja)
+-**prisma** : prisma is orm that helps us accessing to the database :[Prisma](https://www.prisma.io/docs/getting-started)
