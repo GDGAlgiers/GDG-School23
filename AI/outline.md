@@ -38,7 +38,7 @@
 - Convolution layer
 - Pooling layer
 - CNN Architecture
-- Use cases: Image classification, Image segmentation, Object detection
+- Use cases: Image classification, Object detection
 
 ### 5. NLP (30 mins)
 - Sequential data
@@ -50,20 +50,14 @@
 
 ### 6. Intro to TensorFlow (30 mins)
 - Deep learning Framework: TensorFlow
-- Sequential API and Layers
 
 ### 7. Lab (1 hour)
-- Deep Learning: TBD
-- Computer Vision: Cats vs Dogs / MNIST
+- Computer Vision: Cats vs Dogs
 - Natural Language Processing: Emotion Recognition
 
 ### 8. Reinforcement Learning (30 mins)
 - RL framework (Environments, Agents, Rewards)
 - Q-Learning
-    - Q-Table
-    - Q-Learning Algorithm
-    - Exploration vs Exploitation
-- DQN learning
 
 ### 9. Discussion (30 mins)
 - Ressources sharing
