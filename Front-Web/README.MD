@@ -40,7 +40,13 @@ In the final part, participants will learn how to divide a ToDo list into compon
 ### Extra ressources :
 
 ### Trainers :
- |  Graba Maroua      |                                                                                             [Github](https://github.com/graba0maroua)   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maroua-graba-9961b1248//)    |
+ |  Graba Maroua      |                                                                                             [Github](https://github.com/graba0maroua)  and  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maroua-graba-9961b1248//)    |
+| ----------------- | ------------------------------------------------------------------ |
+
+| Serine Sefardjelah|                                                                                             [Github](https://github.com/serinesefardjelah)  and  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serinesefardjelah?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)    |
+| ----------------- | ------------------------------------------------------------------ |
+ 
+ | Lyna Razane Mguellati     |                                                                                             [Github](https://github.com/graba0maroua)   |
 | ----------------- | ------------------------------------------------------------------ |
 
 #### Feel free to reach out if you have any questions or feedback. Happy coding !
