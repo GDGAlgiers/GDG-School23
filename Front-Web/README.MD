@@ -40,6 +40,7 @@ In the final part, participants will learn how to divide a ToDo list into compon
 ### Extra ressources :
 - [Learn react with freeCodeCamp](https://www.youtube.com/watch?v=bMknfKXIFA8&ab_channel=freeCodeCamp.org)
 - [Learn react with codecademy](https://www.codecademy.com/learn/react-101)
+- [Learn react hooks](https://www.youtube.com/watch?v=O6P86uwfdR0&list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h&ab_channel=WebDevSimplified)
 ### Trainers :
  |  Graba Maroua      |                                                                                             [Github](https://github.com/graba0maroua)  and  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maroua-graba-9961b1248//)    |
 | ----------------- | ------------------------------------------------------------------ |
