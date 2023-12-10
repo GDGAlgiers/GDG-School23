@@ -33,3 +33,13 @@ Happy coding!
 -**Dave Gray**: [Dave Gray](https://www.youtube.com/@DaveGrayTeachesCode)
 - **net ninja**: [netninja](https://www.youtube.com/@NetNinja)
 -**prisma** : prisma is orm that helps us accessing to the database :[Prisma](https://www.prisma.io/docs/getting-started)
+
+
+## Contributors
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Rayan-Allali"><img src="https://avatars.githubusercontent.com/u/96151694?v=4" width="100px;" alt=""/><br /><sub><b>Allali Rayan</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Ninou01"><img src="https://avatars.githubusercontent.com/u/110602017?v=4" width="100px;" alt=""/><br /><sub><b>Abdelghani Derdouche</b></sub></a></td>
+  </tr>
+</table>
