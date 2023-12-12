@@ -42,15 +42,15 @@ In the final part, participants will learn how to divide a ToDo list into compon
 - [Learn react with codecademy](https://www.codecademy.com/learn/react-101)
 - [Learn react hooks](https://www.youtube.com/watch?v=O6P86uwfdR0&list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h&ab_channel=WebDevSimplified)
 #### Some cool Vs Code extensions:
-ESLint: Code linting for JavaScript.
-Prettier: Code formatting for consistency.
-Auto Close Tag:Automatically closes HTML/JSX tags.
-Auto Rename Tag:Automatically renames matching HTML/JSX tags.
-React Snippets:Code snippets for React development.
-React Native/React/Redux snippets for es6/es7:More code snippets for React and related technologies.
-Material Icon Theme: Material Design icons for a visually appealing file explorer.
-Path Intellisense: Autocompletes file paths.
-GitLens: Enhanced Git features and history tracking
+1. ESLint: Code linting for JavaScript.
+2. Prettier: Code formatting for consistency.
+3. Auto Close Tag:Automatically closes HTML/JSX tags.
+4. Auto Rename Tag:Automatically renames matching HTML/JSX tags.
+5. React Snippets:Code snippets for React development.
+6. React Native/React/Redux snippets for es6/es7:More code snippets for React and related technologies.
+7. Material Icon Theme: Material Design icons for a visually appealing file explorer.
+8. Path Intellisense: Autocompletes file paths.
+10. GitLens: Enhanced Git features and history tracking
 ### Trainers :
  |  Graba Maroua      |                                                                                             [Github](https://github.com/graba0maroua)  and  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maroua-graba-9961b1248//)    |
 | ----------------- | ------------------------------------------------------------------ |
