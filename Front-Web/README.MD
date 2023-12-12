@@ -62,3 +62,4 @@ In the final part, participants will learn how to divide a ToDo list into compon
 | ----------------- | ------------------------------------------------------------------ |
 
 #### Feel free to reach out if you have any questions or feedback. Happy coding !
+#### © 2023 Powerpuffgirls. All rights reserved.
