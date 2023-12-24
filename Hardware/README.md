@@ -31,24 +31,24 @@ Welcome to the GDG School Hardware workshop repository! Here, you will find valu
 
 ## Extra ressources
 1. **Online Courses:**
-- [Coursera's "Introduction to the Internet of Things"](https://www.coursera.org/learn/iot)
-- [Coursera's "Internet of Things: How did we get here?"](https://www.coursera.org/learn/internet-of-things-history?irclickid=R1azLQ0NhxyNWqYQvGUBz3S3UkH08iR71QMeU40&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=259799&utm_content=b2c)
+    - [Coursera's "Introduction to the Internet of Things"](https://www.coursera.org/learn/iot)
+    - [Coursera's "Internet of Things: How did we get here?"](https://www.coursera.org/learn/internet-of-things-history?irclickid=R1azLQ0NhxyNWqYQvGUBz3S3UkH08iR71QMeU40&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=259799&utm_content=b2c)
 
 2. **Youtube Channels**
-- [BINARYUPDATES](https://www.youtube.com/@BINARYUPDATES/featured)
-- [Electronoobs](https://www.youtube.com/@ELECTRONOOBS)
+    - [BINARYUPDATES](https://www.youtube.com/@BINARYUPDATES/featured)
+    - [Electronoobs](https://www.youtube.com/@ELECTRONOOBS)
 
 3. **Online Simulators**
-- [Wokwi:](https://wokwi.com/) An embedded systems and IoT simulator supporting ESP32 and Arduino.
-- [Tinkercad:](https://www.tinkercad.com) A browser-based electronic circuit simulator supporting Arduino Uno microcontrollers.
+    - [Wokwi:](https://wokwi.com/) An embedded systems and IoT simulator supporting ESP32 and Arduino.
+    - [Tinkercad:](https://www.tinkercad.com) A browser-based electronic circuit simulator supporting Arduino Uno microcontrollers.
 
 4. **GitHub Repositories**
-- [Awesome IoT:](https://github.com/HQarroum/awesome-iotJ) A curated list of IoT frameworks, libraries, and software.
+    - [Awesome IoT:](https://github.com/HQarroum/awesome-iotJ) A curated list of IoT frameworks, libraries, and software.
 
 5. **Community and Forums**
-- [IoT Stack Exchange:](https://iot.stackexchange.com/) A community of experts and enthusiasts.
-- [Instructables:](https://www.instructables.com/circuits/) A platform designed for members to share step-by-step instructions for various projects.
-- [Circuit Digest:](https://circuitdigest.com/electronics-projects) A one-stop place for tech enthusiasts to get the latest news in semiconductors.
+    - [IoT Stack Exchange:](https://iot.stackexchange.com/) A community of experts and enthusiasts.
+    - [Instructables:](https://www.instructables.com/circuits/) A platform designed for members to share step-by-step instructions for various projects.
+    - [Circuit Digest:](https://circuitdigest.com/electronics-projects) A one-stop place for tech enthusiasts to get the latest news in semiconductors.
 
 
 ## Contributors
