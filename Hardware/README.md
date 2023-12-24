@@ -29,7 +29,7 @@ Welcome to the GDG School Hardware workshop repository! Here, you will find valu
 - [Activity 2 MQTT: ](https://github.com/GDGAlgiers/GDG-School23/blob/main/Hardware/Activities/Afternoon%20Activities/ActivityMQTT.ino) Turn the LED on or off from your phone using MQTT protocol
 
 
-## Extra ressources
+## Extra Resources
 1. **Online Courses:**
     - [Coursera's "Introduction to the Internet of Things"](https://www.coursera.org/learn/iot)
     - [Coursera's "Internet of Things: How did we get here?"](https://www.coursera.org/learn/internet-of-things-history?irclickid=R1azLQ0NhxyNWqYQvGUBz3S3UkH08iR71QMeU40&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=259799&utm_content=b2c)
